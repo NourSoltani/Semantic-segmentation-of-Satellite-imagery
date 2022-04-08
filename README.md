@@ -8,8 +8,9 @@
            Satellite images of Dubai, the UAE segmented into 6 classes
            Link:https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery
 
-About Dataset
+
 Context:
+
            Humans in the Loop is publishing an open access dataset annotated for a joint project with the Mohammed Bin Rashid Space Center in Dubai, the              UAE.
 
 Content:
@@ -24,5 +25,6 @@ Content:
            Water: #E2A929
            Unlabeled: #9B9B9B
 Acknowledgements:
+
            The images were segmented by the trainees of the Roia Foundation in Syria.
 
