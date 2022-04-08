@@ -1,6 +1,7 @@
 # Semantic-segmentation-of-Satellite-imagery
 ![Alt text](images/img1.png?raw=true "Semantic Segmentation")
-Code illustrated from DigitalSreeni'Channel
+
+## Code illustrated from DigitalSreeni'Channel
 ## Architecture used: U-Net
 
 ## DataSet: Semantic segmentation of aerial imagery(Satellite images of Dubai, the UAE segmented into 6 classes)
