@@ -1,5 +1,5 @@
 # Semantic-segmentation-of-Satellite-imagery
-![Alt text](images/img1.jpg?raw=true "Semantic Segmentation")
+![Alt text](images/img1.png?raw=true "Semantic Segmentation")
 
 ## Architecture used: U-Net.
 
