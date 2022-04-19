@@ -1,11 +1,12 @@
+<<<<<<< HEAD:source/simple_multi_unet_model.py
 # https://youtu.be/jvZm8REF2KY
+=======
+>>>>>>> 7c7acdbd1246f30e1b8bbe2fd7f6723b515ad5c5:Notebooks/simple_multi_unet_model.py
 """
 Standard Unet
 Model not compiled here, instead will be done externally to make it
 easy to test various loss functions and optimizers. 
 """
-
-
 from keras.models import Model
 from keras.layers import Input, Conv2D, MaxPooling2D, UpSampling2D, concatenate, Conv2DTranspose, BatchNormalization, Dropout, Lambda
 from keras import backend as K
@@ -85,4 +86,7 @@ def multi_unet_model(n_classes=4, IMG_HEIGHT=256, IMG_WIDTH=256, IMG_CHANNELS=1)
     #model.summary()
     
     return model
+<<<<<<< HEAD:source/simple_multi_unet_model.py
  
+=======
+>>>>>>> 7c7acdbd1246f30e1b8bbe2fd7f6723b515ad5c5:Notebooks/simple_multi_unet_model.py
