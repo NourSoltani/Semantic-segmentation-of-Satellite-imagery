@@ -1,10 +1,3 @@
-# https://youtu.be/jvZm8REF2KY
-"""
-Explanation of using RGB masks: https://youtu.be/sGAwx4GMe4E
-
-https://www.kaggle.com/humansintheloop/semantic-segmentation-of-aerial-imagery
-
-The dataset consists of aerial imagery of Dubai obtained by MBRSC satellites and annotated with pixel-wise semantic segmentation in 6 classes. The total volume of the dataset is 72 images grouped into 6 larger tiles. The classes are:
 
 Building: #3C1098
 Land (unpaved area): #8429F6
