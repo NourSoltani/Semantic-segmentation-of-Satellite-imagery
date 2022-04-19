@@ -1,5 +1,4 @@
 <<<<<<< HEAD:source/simple_multi_unet_model.py
-# https://youtu.be/jvZm8REF2KY
 =======
 >>>>>>> 7c7acdbd1246f30e1b8bbe2fd7f6723b515ad5c5:Notebooks/simple_multi_unet_model.py
 """
