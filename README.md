@@ -1,4 +1,4 @@
-# Semantic-segmentation-of-Satellite-imagery           (Under work!!)->Stopeed on working on
+# Semantic-segmentation-of-Satellite-imagery           (Under work!!)
 ![Alt text](images/img1.png?raw=true "Semantic Segmentation")
 
 @Code illustrated from DigitalSreeni'Channel
